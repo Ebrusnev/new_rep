@@ -1,0 +1,19 @@
+{
+  "name": "new_rep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ebrusnev/new_rep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ebrusnev/new_rep/issues"
+  },
+  "homepage": "https://github.com/Ebrusnev/new_rep#readme"
+}
